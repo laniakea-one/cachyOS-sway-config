@@ -1,3 +1,3 @@
 # cachyOS-sway-config
-dotfiles backup for my current sway config.
-copy and pasted, not a direct upload.
+Backup of my dotfiles for my current sway config.
+Copy and pasted the necessary parts, not a carbon copy.
